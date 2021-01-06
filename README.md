@@ -1,1 +1,1 @@
-# studySolidity
+# 学习 URL: https://solidity-by-example.org/
